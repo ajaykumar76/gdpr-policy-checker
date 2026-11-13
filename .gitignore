@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+# third-party policy texts and caches: do not publish
+data/policies.json
+data/failed.json
+data/label_sample.json
+data/cache_llm_*.json
+reports/

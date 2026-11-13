@@ -1,0 +1,982 @@
+{
+ "google.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 0,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "apple.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 0,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 1
+ },
+ "microsoft.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "amazon.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "netflix.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "openai.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "anthropic.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "github.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "slack.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "zoom.us": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "dropbox.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "atlassian.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "notion.so": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "figma.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "shopify.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "stripe.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "paypal.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "wise.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "revolut.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "linkedin.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "reddit.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "snap.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "tiktok.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "whatsapp.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "telegram.org": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "signal.org": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "mozilla.org": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "duckduckgo.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "proton.me": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 1
+ },
+ "wikimediafoundation.org": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "bbc.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "theguardian.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "nytimes.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "spotify.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "booking.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "bmw.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "bayer.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "basf.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "sap.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "siemens.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "bosch.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "allianz.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "dhl.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "flixbus.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "hellofresh.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "celonis.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "deepl.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "sumup.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "adyen.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "nike.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "mcdonalds.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "starbucks.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "walmart.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "target.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "ebay.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "discord.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "steampowered.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 0,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "epicgames.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "ubisoft.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "nintendo.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "sony.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 0,
+  "supervisory_complaint": 0
+ },
+ "huawei.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "xiaomi.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "oracle.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "salesforce.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "ibm.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "intel.com": {
+  "controller_contact": 0,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "nvidia.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "cloudflare.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "digitalocean.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "heroku.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "hubspot.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "mailchimp.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "zendesk.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "twilio.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "okta.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "datadoghq.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "gitlab.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "trello.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "asana.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "monday.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "miro.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "grammarly.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "coursera.org": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "strava.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "fitbit.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "toyota.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "airbus.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "hsbc.com": {
+  "controller_contact": 0,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "visa.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "mastercard.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "coinbase.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 0,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "vodafone.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "vimeo.com": {
+  "controller_contact": 1,
+  "dpo_contact": 1,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "substack.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "wordpress.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ },
+ "wix.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 0,
+  "recipients": 1,
+  "international_transfers": 0,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 0
+ },
+ "squarespace.com": {
+  "controller_contact": 1,
+  "dpo_contact": 0,
+  "legal_basis": 1,
+  "recipients": 1,
+  "international_transfers": 1,
+  "retention": 1,
+  "data_subject_rights": 1,
+  "supervisory_complaint": 1
+ }
+}
